@@ -21,5 +21,6 @@ class Quraun_content : AppCompatActivity() {
         viewBinding.ccc.text=s.trim().split(",").toString()
         viewBinding.suraName.text=name
 
+
     }
 }
